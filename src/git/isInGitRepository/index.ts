@@ -8,3 +8,5 @@ function isInGitRepository() {
     return false;
   }
 }
+
+export default isInGitRepository;
